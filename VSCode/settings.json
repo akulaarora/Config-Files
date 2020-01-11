@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "window.zoomLevel": 0,
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "terminal.integrated.inheritEnv": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "shellLauncher.shells.windows": [
+        {
+            "shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "label": "Powershell"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\cmd.exe",
+            "label": "Command Prompt"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\wsl.exe",
+            "label": "WSL"
+        }
+    ]
+    // "vim.handleKeys": {
+    //     "C-w": false
+    // }
+}
