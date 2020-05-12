@@ -44,3 +44,5 @@ alias pip='pip3'
 
 export CLASSPATH=".:/usr/lib/jvm/oracle-jdk11/lib:/c/Users/Akul/Desktop/cs61b-software/lib/*"
 export DOCKER_HOST=tcp://localhost:2375
+
+export DISPLAY=:0
